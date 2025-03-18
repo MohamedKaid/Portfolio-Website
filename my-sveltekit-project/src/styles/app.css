@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* src/styles/app.css */
+body {
+    background-color: black;
+    color: white; /* Optional: Set text color to white so it's visible on a black background */
+  }
+  
